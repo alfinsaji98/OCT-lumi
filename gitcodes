@@ -1,0 +1,11 @@
+
+git --version : git version
+git config --global user.name "name"
+git config --global user.email "email"
+git config --list : check user name and mailid added
+git init : git initialization
+git status : listing all untraked files
+git add -A : add all untracked files to staging area
+git commit -m"commit messege"
+git remote add name path > to set remote repostery
+git remote -v
